@@ -11,7 +11,7 @@
         <div class="head">
         <navbar class="nav">
             <div class="nav-nama">
-                <h1>Biografi Saya</h1>
+                <h1><span>Biografi Saya</span></h1>
             </div>
             <div class="nav-list">
                 <li><a href="#">Instagram</a></li>
@@ -23,25 +23,18 @@
     </header>
     <main>
         <section class="container">
-                <div class="container-in">
                     <div class="main-gambar">
                         <img src="picture/IMG_20260504_141856.jpg" alt="">
                     </div>
-                    <div class="main-bio">
-                        <h2>Nama : Galih Pandu Wicaksono</h2>
-                        <h2>Tempat, Tanggal Lahir : Semarang, 31 Mei 2006</h2>
-                        <h2>Alamat : Jl. Durian Raya No. 73B, Semarang</h2>
-                        <h2>Hobi : Programing, Membaca Buku, Menulis, dan Fotografi</h2>
-                    </div>
-                </div>
-        </section>
-        <section>
+                        <div class="main-bio">
+                            <h3>halo! Saya seorang <span>Fotografer</span> dan Programer</h3>
+                            <h1>Galih Pandu Wicaksono</h1>
+                        </div>
+            </section>
+        <section class="container">
                 <div class="container-in">
                     <div class="main-bio">
                         <h2>Riwayat Pendidikan</h2>
-                        <h3>SDN Srondol Kulon 02 (2012-2018)</h3>
-                        <h3>SMP Eka Sakti Semarang (2018-2021)</h3>
-                        <h3>Pondok Modern Darussalam Gontor (2021-2025)</h3>
                     </div>
                 </div>
         </section>
